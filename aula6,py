@@ -1,0 +1,11 @@
+'''pswddb = "123456"
+pswd = input("Digite sua senha: ")
+while pswddb == "123456":
+    print("Acesso negado.")
+    break
+
+Variavel3 = [1,2,3,4,5]
+Variavel4 = 1
+if Variavel4 in Variavel3:
+    print("Número na lista.")
+while Variavel1 == "1,2,3,4,5"'''
